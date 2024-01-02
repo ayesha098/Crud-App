@@ -1,0 +1,120 @@
+*{
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ letter-spacing: 2px;
+}
+
+.ff{
+  margin: auto;
+}
+.main{
+  width: 100%;
+  background-color:#2D9596;
+  height: 1000px;
+}
+.log{
+ width: 80%;
+    height: 800px;
+    position: relative;
+    top: 50px;
+    left: 120px;
+    background-color: #fff;
+    border-radius: 20px;
+    display: flex;
+}
+.image{
+  width: 60%;
+  height: 100%;
+  
+}
+
+.image img {
+  width: 100%;
+  height: 100%;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+}
+.sign{
+  width: 50%;
+  color: #2D9596;
+  height: 100%;
+  
+}
+.sign label{
+  padding-top: 10px;
+  font-weight: bold;
+}
+.sign form{
+  margin-left: 3rem;
+  margin-top: 1rem;
+}
+.sign form input{
+  width: 80%;
+font-size: small;
+
+}
+.sign form .sb{
+  background-color: #2D9596;
+  border: none;
+  width: 80%;
+}
+.sign form p .l {
+
+  color:  #2D9596;
+}
+.radio-group {
+  display: flex;
+  margin-top: 1px;
+}
+
+.radio-group label {
+  margin-right: 15px;
+}
+
+.radio-group input[type="radio"] {
+  margin-right: 6px;
+  width: fit-content;
+  position: relative;
+    top: 6px;
+}
+.login{
+  width: 60%;
+     height: 400px;
+     position: relative;
+     top: 90px;
+     left: 245px;
+     background-color: #fff;
+     border-radius: 20px;
+     display: flex;
+ }
+ .imag{
+  width: 50%;
+  height: 100%;
+  
+}
+.imag img {
+  width: 100%;
+  height: 100%;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+}
+.mainl{
+  width: 100%;
+  background-color:#2D9596;
+  height: 600px;
+}
+.reg {
+  background-color: #2D9596;
+  color: #fff;
+  border-radius: 20px;
+}
+.m h1{
+  color: #2D9596;
+}
+.btn-reg{
+  border: none;
+  background-color: #fff;
+  color:#2D9596;
+  margin-left: 5rem;
+  border-radius: 10px;
+  width: 50%;
+}
